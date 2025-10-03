@@ -1,7 +1,7 @@
 Caso_Practico_SQL
 
 En este proyecto se analizara una base de datos de un  restaurante mediante el uso de SQL
-En este proyecto nos damos cuenta que se cuentan con 32 articulos en el menu. El articulo menos caro del menu es "Edamame" y el mas caro "Shrimp Scampi".
+En este proyecto nos damos cuenta que se cuentan con 32 articulos en el menu. El articulo mas economico del menu es "Edamame" y el mas caro "Shrimp Scampi".
 
 <img width="301" height="94" alt="image" src="https://github.com/user-attachments/assets/b079994a-817d-4bba-99fe-684eaab6207f" />
 
